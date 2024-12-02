@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rafaeladrs
+- 👀 I’m interested in web design, web development & others
+- 🌱 I’m currently learning python and javascript
+- 📫 How to reach me: rdsoares@inf.ufsm.br & @rdsoares on instagram
+- 😄 Pronouns: she/her
